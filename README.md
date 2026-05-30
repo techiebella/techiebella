@@ -48,21 +48,20 @@
 
 ## 📊 GitHub Stats
 
-![Eswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=techiebella&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 Achievements
-- 🎯 Working towards top engineering colleges through ECET  
+## 🏆 Achievements  
 - 💡 Built multiple real-world projects  
 - 📚 Strong foundation in core CSE subjects  
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: reddieswari3@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
 - 🌐 Portfolio: (if you have one)
 
