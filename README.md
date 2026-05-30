@@ -50,7 +50,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=techiebella&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techiebella&layout=compact&theme=tokyonight)
 
 ---
 
