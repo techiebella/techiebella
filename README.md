@@ -1,102 +1,72 @@
-<h1 align="center">Hi 👋, I'm Eswari Lakshmi Devi</h1>
-<h3 align="center">B.Tech Student | Software Developer | Tech Enthusiast</h3>
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 Currently learning **React, Backend Development, AI**
-- 💻 Interested in **Web Development & Software Engineering**
-- 🎯 Goal: Become a Full Stack Developer
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun fact: I love building creative tech projects
+<h1 align="center">Hi 👋, I'm Eswari</h1>
+<h3 align="center">A passionate Computer Science student from India 🇮🇳</h3>
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://github.com/YOURUSERNAME" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/yourprofile" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="30" width="40" />
-</a>
-</p>
+## 🚀 About Me
+- 🎓 CSE Student aiming for top software companies  
+- 💻 Interested in **Web Development & AI/ML**  
+- 🌱 Currently learning **Django, React, Machine Learning**  
+- 🛠️ Building real-world projects to improve skills  
+- ✨ I love combining **technology + creativity (stories & design)**  
 
 ---
 
-## 🚀 Languages and Tools
+## 🔥 My Projects
 
-<p align="left">
+### 📚 Library Management System
+- Full-stack web app with student & admin dashboard  
+- Features: Login/Signup, Book Issue/Return, Fine Calculation  
+- Tech: Django, HTML, CSS, JS  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+### 🤖 AI Chatbot (Mini ChatGPT)
+- Basic chatbot using NLP  
+- Can answer simple queries  
+- Tech: Python, ML  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+### 🌐 Weather App
+- Fetches real-time weather data using API  
+- Tech: JavaScript, API Integration  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+## 🛠️ Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+### 👩‍💻 Languages
+- C, Python, JavaScript  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+### 🌐 Web Development
+- HTML, CSS, React, Django  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+### 🤖 AI/ML
+- Pandas, NumPy, Scikit-learn  
 
-</p>
+### 🗄️ Database
+- MySQL, SQLite  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+![Eswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=onedark" alt="trophies" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-### 🌟 Portfolio Website
-Personal developer portfolio built using HTML, CSS, and JavaScript.
-
-### 🌟 Weather App
-Weather forecasting app using APIs.
-
-### 🌟 Student Management System
-Java-based management project.
-
-### 🌟 AI Chatbot
-Simple chatbot using Python.
+## 🏆 Achievements
+- 🎯 Working towards top engineering colleges through ECET  
+- 💡 Built multiple real-world projects  
+- 📚 Strong foundation in core CSE subjects  
 
 ---
 
-## ✨ Quote
-
-> “Code. Learn. Build. Repeat.”
+## 📫 Connect With Me
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌐 Portfolio: (if you have one)
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## ⚡ Fun Fact
+I love writing stories and turning ideas into creative tech projects ✨
