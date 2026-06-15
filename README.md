@@ -53,7 +53,8 @@
 
 ## 📫 Connect With Me
 - 📧 Email: reddieswari3@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://www.linkedin.com/in/eswari-lakshmi-devi-reddi-714202416/
+- Instagram: https://www.instagram.com/byteforge19?igsh=MXU2MW13dzd6bXAzeQ==
 - 🌐 Portfolio: (if you have one)
 
 ---
