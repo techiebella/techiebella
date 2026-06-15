@@ -5,21 +5,25 @@
 
 ## 🚀 About Me
 - 🎓 CSE Student aiming for top software companies  
-- 💻 Interested in **Web Development & AI/ML**  
-- 🌱 Currently learning **Django, React, Machine Learning**  
+- 💻 Interested in Web Development & AI/ML  
+- 🌱 Currently learning Django, React, Machine Learning  
 - 🛠️ Building real-world projects to improve skills  
-- ✨ I love combining **technology + creativity (stories & design)**  
+- ✨ I love combining technology + creativity (stories & design)
 
 ---
 
 ## 🔥 My Projects
 
 ### 📚 Library Management System
-- Full-stack web app with student & admin dashboard  
+- Full-stack web application with student & admin dashboards  
 - Features: Login/Signup, Book Issue/Return, Fine Calculation  
-- Tech: Django, HTML, CSS, JS  
+- Tech: Django, HTML, CSS, JavaScript  
 
-Django To-Do List App (CRUD + Authentication)
+### ✅ Django To-Do List App
+- CRUD operations with user authentication  
+- Task management system with clean UI  
+- Tech: Django, Bootstrap, SQLite  
+
 ---
 
 ## 🛠️ Tech Stack
@@ -28,7 +32,7 @@ Django To-Do List App (CRUD + Authentication)
 - C, Python, JavaScript  
 
 ### 🌐 Web Development
-- HTML, CSS, React, Django  
+- HTML, CSS, Bootstrap, Django, React  
 
 ### 🤖 AI/ML
 - Pandas, NumPy, Scikit-learn  
@@ -40,22 +44,25 @@ Django To-Do List App (CRUD + Authentication)
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=techiebella&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techiebella&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techiebella&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 Achievements  
-- 💡 Built multiple real-world projects  
+## 🏆 Achievements
+- 💡 Built multiple real-world full-stack projects  
 - 📚 Strong foundation in core CSE subjects  
+- 🚀 Actively improving development skills  
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: reddieswari3@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/eswari-lakshmi-devi-reddi-714202416/
-- Instagram: https://www.instagram.com/byteforge19?igsh=MXU2MW13dzd6bXAzeQ==
-- 🌐 Portfolio: (if you have one)
+- 📧 Email: reddieswari3@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/eswari-lakshmi-devi-reddi-714202416/  
+- 📸 Instagram: https://www.instagram.com/byteforge19  
+- 🌐 Portfolio: Coming soon  
 
 ---
 
