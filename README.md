@@ -19,7 +19,7 @@
 - Features: Login/Signup, Book Issue/Return, Fine Calculation  
 - Tech: Django, HTML, CSS, JS  
 
-
+Django To-Do List App (CRUD + Authentication)
 ---
 
 ## 🛠️ Tech Stack
