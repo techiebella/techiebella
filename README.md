@@ -19,14 +19,6 @@
 - Features: Login/Signup, Book Issue/Return, Fine Calculation  
 - Tech: Django, HTML, CSS, JS  
 
-### 🤖 AI Chatbot (Mini ChatGPT)
-- Basic chatbot using NLP  
-- Can answer simple queries  
-- Tech: Python, ML  
-
-### 🌐 Weather App
-- Fetches real-time weather data using API  
-- Tech: JavaScript, API Integration  
 
 ---
 
