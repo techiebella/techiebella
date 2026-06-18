@@ -24,6 +24,8 @@
 - Task management system with clean UI  
 - Tech: Django, Bootstrap, SQLite
 
+🔗 Repository: https://github.com/techiebella/to-do-list.git
+
 ### 🧮 Scientific Calculator
 A responsive scientific calculator built using HTML, CSS, and JavaScript.
 
