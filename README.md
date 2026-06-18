@@ -22,7 +22,20 @@
 ### ✅ Django To-Do List App
 - CRUD operations with user authentication  
 - Task management system with clean UI  
-- Tech: Django, Bootstrap, SQLite  
+- Tech: Django, Bootstrap, SQLite
+
+### 🧮 Scientific Calculator
+A responsive scientific calculator built using HTML, CSS, and JavaScript.
+
+**Features:**
+- Basic arithmetic operations
+- Scientific functions
+- Dark & Light Mode
+- Responsive Design
+- Modern UI
+
+🔗 Repository: https://github.com/techiebella/calculator
+
 
 ---
 
