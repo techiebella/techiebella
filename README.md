@@ -92,12 +92,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![Eswari's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=techiebella&show_icons=true&theme=tokyonight)](https://github.com/techiebella)
-
----
-
 ## 🏆 Achievements
 
 - Built multiple frontend and full-stack projects
