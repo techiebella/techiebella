@@ -86,7 +86,6 @@
 * Machine Learning
 * Pandas
 * NumPy
-* Scikit-learn
 
 ### 🗄️ Databases
 
