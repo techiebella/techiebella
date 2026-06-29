@@ -94,9 +94,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techiebella&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+[![Eswari's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=techiebella&show_icons=true&theme=tokyonight)](https://github.com/techiebella)
 
 ---
 
