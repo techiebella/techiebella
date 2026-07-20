@@ -189,11 +189,16 @@ Planned Features
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techiebella&show_icons=true&theme=tokyonight)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techiebella&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techiebella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiebella&layout=compact&theme=tokyonight"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=techiebella&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=techiebella&theme=tokyonight"/>
+</p>
 
 ---
 
