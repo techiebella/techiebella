@@ -191,14 +191,7 @@ Planned Features
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techiebella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiebella&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=techiebella&theme=tokyonight"/>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=techiebella&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
