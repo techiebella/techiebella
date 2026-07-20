@@ -5,10 +5,6 @@ Computer Science Engineering Student • Aspiring Full Stack Developer • Djang
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Aspiring+Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Real-World+Projects;Always+Learning+New+Technologies+🚀" />
-</p>
-
-<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=techiebella&label=Profile%20Views&color=0e75b6&style=flat"/>
 
